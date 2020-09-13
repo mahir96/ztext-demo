@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Architects Daughter", cursive;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 5rem;
+  font-size: 70px;
+}
+.info p {
+  text-align: center;
+  margin-top: 0.5rem;
+}
