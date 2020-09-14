@@ -1,6 +1,8 @@
 * {
   margin: 0px;
   padding: 0px;
+  background-color: #fbece4;
+  color: #7c7c90;
   font-family: "Architects Daughter", cursive;
 }
 
@@ -12,4 +14,11 @@ h1 {
 .info p {
   text-align: center;
   margin-top: 0.5rem;
+}
+
+.z-text {
+  /* Tip: Apply CSS transforms here */
+  /* rotateX() == up/down */
+  /* rotateY() == left/right */
+  transform: rotateX(15deg) rotateY(-30deg);
 }
